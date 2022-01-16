@@ -14,6 +14,10 @@ public void publicText(){
 	System.out.println("Static Text");
 }
  
+ static void staticText1(){
+	System.out.println("Static Text");
+}
+ 
 private void priText(){
 	System.out.println("Private Text");
 }
