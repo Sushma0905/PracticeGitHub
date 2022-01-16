@@ -18,5 +18,8 @@ public class Set6_Question2_Wiki {
 		 return By.xpath("//div[contains(text(),'Motto')]//following::td[1]");
 	 }
 	 
+	 public By Motto1(){
+		 return By.xpath("//div[contains(text(),'Motto')]//following::td[1]");
+	 }
 	 
 }
